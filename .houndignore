@@ -1,3 +1,5 @@
-**/*.min.js
-**/vendor/**
-**/dist/**
+/assets/css/docs.min.css
+/assets/js/vendor/
+/assets/js/docs.min.js
+/dist/
+/js/dist/
